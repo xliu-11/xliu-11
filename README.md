@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Xun Liu ===============================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Xun Liu ==========================================================
 Full-Stack Developer
 --------------------
 I recently completed an immersive coding boot camp (Launch Academy), where I developed skills to become a full-stack developer. After working as a Systems Analyst for 5 years at Mass General Brigham and a Financial Analyst at Tufts Medical Center for 1 year, I decided that I wanted a career change while preserving my strength of problem solving. After contemplating my career path, I decided that I want to become a software developer.
