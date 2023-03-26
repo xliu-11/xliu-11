@@ -1,4 +1,4 @@
-Hi 👋 My name is Xun Liu
+Hi 👋 My name is Xun
 --------------------
 Full-Stack Developer
 --------------------
