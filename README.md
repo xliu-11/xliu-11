@@ -1,8 +1,9 @@
 Hi 👋 My name is Xun
---------------------
-Full-Stack Developer
---------------------
-I recently completed an immersive coding boot camp (Launch Academy), where I developed skills to become a full-stack developer. After working as a Systems Analyst for 5 years at Mass General Brigham and a Financial Analyst at Tufts Medical Center for 1 year, I decided that I wanted a career change while preserving my strength of problem solving. After contemplating my career path, I decided that I want to become a software developer.
+----------------
+Systems Analyst
+----------------
+I recently completed an immersive coding boot camp (Launch Academy), where I developed skills to become a full-stack developer. I am currently a Systems Analyst on the Software Development team at Good Measures, Inc. working towards becoming a Software Engineer.
+
 * 🌍  I'm based in Boston* 
 * ✉️  You can contact me at [xliu1108@gmail.com](mailto:xliu1108@gmail.com)* 
 * 🚀  I'm currently working on [Pokémon Team Builder](http://pokemon-team-builder.herokuapp.com)* 
