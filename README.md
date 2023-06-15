@@ -2,12 +2,7 @@ Hi 👋 My name is Xun
 ----------------
 Systems Analyst
 ----------------
-I recently completed an immersive coding boot camp (Launch Academy), where I developed skills to become a full-stack developer. I am currently a Systems Analyst on the Software Development team at Good Measures, Inc. working towards becoming a Software Engineer.
-
-* 🌍  I'm based in Boston* 
-* ✉️  You can contact me at [xliu1108@gmail.com](mailto:xliu1108@gmail.com)* 
-* 🚀  I'm currently working on [Pokémon Team Builder](http://pokemon-team-builder.herokuapp.com)* 
-* 🤝  I'm open to collaborating on interesting projects
+I recently completed an immersive coding boot camp (Launch Academy), where I developed skills to become a full-stack developer. I am currently a Systems Analyst on the Software Development team at Good Measures, Inc. working towards becoming a Software Developer.
 
 ### Skills
 
