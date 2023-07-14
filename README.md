@@ -3,6 +3,8 @@ Hi 👋 My name is Xun
 Software Developer
 -------------------
 
+🌍 Based in Boston, MA
+
 ### Skills
 
 
