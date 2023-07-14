@@ -1,8 +1,7 @@
 Hi 👋 My name is Xun
-----------------
-Systems Analyst
-----------------
-I recently completed an immersive coding boot camp (Launch Academy), where I developed skills to become a full-stack developer. I am currently a Systems Analyst on the Software Development team at Good Measures, Inc. working towards becoming a Software Developer.
+-------------------
+Software Developer
+-------------------
 
 ### Skills
 
